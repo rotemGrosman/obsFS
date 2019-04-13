@@ -1,0 +1,18 @@
+.expectedTimesRoot {
+    width: 90%;
+    overflow: auto;
+    padding: 10px;
+    margin: 10px;
+}
+
+.intervalHeader{
+    min-width: 80px;
+}
+
+.expectedTimesTable th {
+    padding: 4px 34px 4px 0px;
+}
+
+.headerCell {
+    cursor: pointer;
+}

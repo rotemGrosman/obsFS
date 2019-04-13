@@ -1,0 +1,12 @@
+
+go to project root
+npm install
+npm start
+use postman to send POST message to url http://localhost:5000/api/readData/100
+
+
+in other cmd
+go to project root / src/react
+npm install
+npm start
+use browser to navigate to localhost:3000
